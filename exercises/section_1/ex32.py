@@ -1,0 +1,6 @@
+n = input('enter 4 digits:  ')
+sum = int(n[0])
+sum += int(n[1])
+sum += int(n[2])
+sum += int(n[3])
+print(sum)
